@@ -1,0 +1,11 @@
+:root {
+  --background-color: #000000;
+  --main-text-color: #ffffff;
+}
+
+body {
+  background: var(--background-color);
+  margin: 0;
+  color: var(--main-text-color);
+  position: relative;
+}
